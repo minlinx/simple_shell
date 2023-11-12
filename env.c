@@ -2,7 +2,7 @@
 
 /**
  * create_env - creates a structure for the copy
- *	of Environ
+ *	of   Environ
  * @environ: the global environment
  * Return: the new structure
  */
